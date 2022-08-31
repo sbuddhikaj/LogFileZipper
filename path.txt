@@ -1,0 +1,2 @@
+C:\wildfly-10.0.0.Finalol\standalone\log
+E:\
